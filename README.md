@@ -25,9 +25,5 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YousefSherif2007&show_icons=true&theme=dark" alt="Youssef's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YousefSherif2007&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YousefSherif2007&theme=dark" alt="Youssef's GitHub Streak" />
 </p>
