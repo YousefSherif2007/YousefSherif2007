@@ -1,10 +1,16 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header&text=Youssef%20Sherif%20Algezawi&fontSize=40&fontColor=58a6ff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=4&stroke=58a6ff&strokeWidth=2" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=CS%20Student%20at%20Benha%20University;Future%20Software%20Engineer;Passionate%20About%20Clean%20Code;C%2B%2B%20%26%20C%23%20Developer;Algorithms%20%26%20Data%20Structures;Programming%20Advices%20Trainee" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=70&lines=%E2%9C%A8+YOUSEF+SHERIF+ALGEZAWI+%E2%9C%A8;Future+Software+Engineer+%F0%9F%9A%80" alt="Name Banner" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=CS+Student+at+Benha+University;Passionate+About+Clean+Code;C%2B%2B+%26+C%23+Developer;Algorithms+%26+Data+Structures;Programming+Advices+Trainee" alt="Typing SVG" />
   </a>
 </p>
 
