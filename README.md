@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=CS%20Student%20at%20Benha%20University;Future%20Software%20Engineer;Passionate%20About%20Clean%20Code;C%2B%2B%20%26%20C%23%20Developer;Algorithms%20%26%20Data%20Structures;Programming%20Advices%20Trainee" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=CS+Student+%40+Benha+University;Learning+C%2B%2B+%26+Algorithms;Building+Real+Projects+Step+by+Step;Following+Programming+Advices+Roadmap" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,24 +16,30 @@
 
 ### 👨‍💻 About Me
 
-* 🎓 **Education:** Student at Benha Faculty of Computers & Artificial Intelligence
-* 💡 **Passionate about:** Software Development & Problem Solving
-* 🎯 **Focused on:** 
-  * C++ & C#
-  * Object-Oriented Programming (OOP)
-  * Data Structures & Algorithms
-* 🚀 **Roadmap:** Following Dr. Mohammed Abu-Hadhoud's Roadmap at **Programming Advices**
+* 🎓 **Education:** Faculty of Computers & Artificial Intelligence, Benha University (2nd year)
+* 📚 **Currently:** Following Dr. Mohamed Abu-Hadhoud's "Programming Advices" roadmap — completed C++ Fundamentals & Algorithms, now on Course 4
+* 💡 **Focused on:** Data Structures, Algorithms & Problem Solving in C++
+* 🎯 **Goal:** Build a strong foundation to move into backend/software development, and start taking on freelance work
 
 ---
 
-### 🛠️ Languages & Skills
+### 📂 Featured Projects
+
+| Project | Description |
+|---|---|
+| [Introduction to Programming with C++](https://github.com/YousefSherif2007/03-Introduction-to-Programming-with-CPP-Level-1) | Core C++ syntax, variables, functions, arrays & control flow |
+| [Algorithms & Problem Solving](https://github.com/YousefSherif2007/02-Algorithms-and-Problem-Solving-Level-1) | Fundamental problem-solving and algorithmic thinking exercises |
+| [Programming Foundations](https://github.com/YousefSherif2007/01-Programming-Foundations-Level-1) | Hardware basics and programming fundamentals |
+
+---
+
+### 🛠️ Currently Learning
 
 <p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Structures-4B8BBE?style=for-the-badge&logo=leetcode&logoColor=white" />
 </p>
 
 ---
@@ -56,20 +62,3 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
-
----
-
-```cpp
-// Focused on mastering Software Development
-
-class YoussefSherif {
-public:
-    string university = "Benha University";
-    string faculty    = "Faculty of Computers & Artificial Intelligence";
-    string track      = "Future Software Engineer";
-    string passion    = "Problem Solving & Building Systems";
-
-    void sayHi() {
-        cout << "Thanks for visiting my profile 🚀";
-    }
-};
