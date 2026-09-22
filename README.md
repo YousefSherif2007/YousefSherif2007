@@ -1,10 +1,6 @@
 <div align="center">
 
-<p align="center">
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=C%2B%2B;Algorithms;Problem+Solving;Git+%26+GitHub;Future+Web+Developer" alt="Typing SVG" />
-</a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=Youssef%20Sherif%20Elgezawi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=32" width="100%" />
 
 <p align="center">
 <a href="https://readme-typing-svg.demolab.com">
