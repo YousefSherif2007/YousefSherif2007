@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1f29,100:161b22&height=200&section=header&text=Youssef%20Sherif%20Elgezawi&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=35" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=200&section=header&text=Youssef%20Sherif%20Elgezawi&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%" />
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=CS+Student+%40+Benha+University;Learning+C%2B%2B+%26+Algorithms;Building+Real+Projects+Step+by+Step;Future+Web+Developer" alt="Typing SVG" />
