@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f29,100:161b22&height=200&section=header&text=Youssef%20Sherif%20Elgezawi&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=35" width="100%" />
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=CS+Student+%40+Benha+University;Learning+C%2B%2B+%26+Algorithms;Building+Real+Projects+Step+by+Step;Future+Backend+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=CS+Student+%40+Benha+University;Learning+C%2B%2B+%26+Algorithms;Building+Real+Projects+Step+by+Step;Future+Web+Developer" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -25,7 +25,7 @@
 - 🎓 Studying at **Faculty of Computers & Artificial Intelligence, Benha University**
 - 📚 Building a strong foundation through Dr. Mohamed Abu-Hadhoud's **"Programming Advices"** roadmap (C++, Algorithms & Data Structures)
 - 🔭 Learning in public — every repo here reflects a real step in the journey, not a finished product
-- 🎯 Goal: becoming a solid **Backend Developer**, and starting freelance work along the way
+- 🎯 Goal: becoming a solid **Web Developer**, and starting freelance work along the way
 - ⚡ Fun fact: I believe strong fundamentals beat shortcuts every time
 
 <br/>
@@ -89,7 +89,7 @@ class YoussefSherif {
 public:
     string university = "Benha University";
     string faculty    = "Faculty of Computers & Artificial Intelligence";
-    string track       = "Aspiring Backend Developer";
+    string track       = "Aspiring Web Developer";
     string passion     = "Problem Solving & Building Systems";
 
     void sayHi() {
