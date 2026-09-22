@@ -1,6 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" />
+<p align="center">
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=C%2B%2B;Algorithms;Problem+Solving;Git+%26+GitHub;Future+Web+Developer" alt="Typing SVG" />
+</a>
+</p>
+
+<p align="center">
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2000&pause=500&color=8B949E&center=true&vCenter=true&width=500&lines=CS+Student+%40+Benha+University;Learning+in+Public+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+</p>
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=CS+Student+%40+Benha+University;Learning+C%2B%2B+%26+Algorithms;Building+Real+Projects+Step+by+Step;Future+Web+Developer" alt="Typing SVG" />
